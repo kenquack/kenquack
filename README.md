@@ -66,6 +66,9 @@ I'm a full-stack engineer looking for the opportunity to learn and grow.
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </a>
+<br>
+<br/>
+
 ---
 ### Contact me:
 
