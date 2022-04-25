@@ -3,6 +3,26 @@
 I'm a full-stack engineer looking for the opportunity to learn and grow.
 
 ---
+### My Projects:
+<div style="display:flex">
+  <div>
+    <strong><a href="https://github.com/kenquack/KZXT#readme">KZXT</strong></a> - Fullstack clone of the NZXT e-commerce website <br>
+      <a href="https://github.com/kenquack/KZXT#readme"><img src="https://user-images.githubusercontent.com/95385874/161304314-607b571f-a2d1-48ed-87e3-4e0dd91ba75b.png"></img></a>
+  </div>
+  <br>
+  <div>
+  <div>
+    <strong><a href="https://github.com/d-tamang/theft-deflect#readme">Theft Deflect</strong></a> - MERN Stack web app that helps users find safe parking <br>
+    <a href="https://github.com/d-tamang/theft-deflect#readme"><img src="https://i.imgur.com/Bn0bTC3.png"></a></img>
+  </div>
+  <br>
+    <div>
+    <strong><a href="https://github.com/kenquack/The-World-of-Vtubers#readme">The World of VTubers</strong></a> - Interactive site to display the wonders of VTubers<br>
+    <a href="https://github.com/kenquack/The-World-of-Vtubers#readme"><img src="https://user-images.githubusercontent.com/95385874/165168994-51fff388-7cac-4863-b61d-208803b328e9.gif"></a></img>
+  </div>
+</div>
+
+---
 ### GitHub Stats:
 <img alt="Kenneth Quach's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kenquack&show_icons=true&hide_border=true&theme=radical" />
 
