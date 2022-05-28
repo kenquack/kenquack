@@ -2,7 +2,7 @@
 
 I'm a full-stack engineer looking for the opportunity to learn and grow.
 
----
+<!-- ---
 ### My Projects:
 <div style="display:flex">
   <div>
@@ -95,7 +95,7 @@ I'm a full-stack engineer looking for the opportunity to learn and grow.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennethtquach@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethquach/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/kenneth-quach)
-
+ -->
 
 <!--
 **kenquack/kenquack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
